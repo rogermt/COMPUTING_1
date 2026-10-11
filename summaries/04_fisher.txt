@@ -1,0 +1,62 @@
+4. FISHER, A. — CRITICAL THINKING: AN INTRODUCTION
+
+Reading-list citation: Fisher, A. (2011) Critical Thinking: An Introduction. 2nd edn. Cambridge: Cambridge University Press. [Recommended]
+
+PDF actually read: Fisher, A. (2011) Critical Thinking: An Introduction. 2nd edn. Cambridge: Cambridge University Press. ISBN 978-1-107-40198-3. First published 2001. This is the matching edition. The supplied scan is split across two PDFs (pages 1–159 and 160–308).
+
+Purpose
+Fisher’s aim is to teach critical thinking skills — interpreting, analysing and evaluating ideas and arguments — explicitly and so that they transfer to other studies and to everyday life. He treats critical thinking as a basic competency akin to reading and writing. The book is used in North American colleges, in UK OCR and AQA Critical Thinking qualifications, and for the International Baccalaureate. It contains many topical passages and over 220 questions, with answers to more than three-quarters, plus ‘thinking maps’ (questions to ask yourself when thinking skilfully). Students are encouraged to keep a critical-thinking notebook. The second edition adds Chapter 12 on the internet and replaces more than two-thirds of the Questions appendix. Fisher designed the OCR AS Critical Thinking examination and was its chief examiner. He acknowledges Robert Ennis (assumptions and causal explanation), Robert Swartz (thinking maps and decision-making) and Michael Scriven (clarification and argument evaluation). Facione (2010) appears among later references; Fisher and Scriven (1997) among his own.
+
+Chapter 1: what critical thinking is
+Fashionable ‘thinking skills’ teaching often fails because students do not pick up skills implicitly. Fisher therefore teaches them directly. He asks readers to write their own definition first, then compares classic definitions.
+
+John Dewey (1909, p. 9), the ‘father’ of the modern tradition, called it reflective thinking: ‘Active, persistent, and careful consideration of a belief or supposed form of knowledge in the light of the grounds which support it and the further conclusions to which it tends.’ Active contrasts with passive reception; persistent and careful contrast with snap judgement; grounds and further conclusions are reasons and implications.
+
+Edward Glaser (1941, p. 5), co-author of the Watson–Glaser Critical Thinking Appraisal, added: (1) a disposition to consider problems thoughtfully; (2) knowledge of methods of logical enquiry and reasoning; (3) skill in applying those methods. Skills without the disposition are not critical thinking.
+
+Robert Ennis’s widely used definition (cf. Norris and Ennis, 1989): ‘Critical thinking is reasonable, reflective thinking that is focused on deciding what to believe or do.’ Decision-making is explicitly included.
+
+Richard Paul (Paul, Fisher and Nosich, 1993, p. 4): critical thinking is that mode of thinking — about any subject — in which the thinker improves the quality of thinking by taking charge of the structures inherent in thinking and imposing intellectual standards upon them. The route to improvement is thinking about your thinking (metacognition).
+
+Fisher also discusses critico-creative thinking: evaluation is not only negative. Barriers, attitudes and knowledge are distinguished from skills. Socrates’ ‘examined life’ is the ethical horizon.
+
+Chapters 2–4: the language and patterns of reasoning
+Chapter 2 identifies reasons and conclusions: argument-indicator words, the author’s position, and the difference between a passage that argues and one that does not. Chapter 3 maps patterns of reasoning (including joint versus independent reasons, which Cottrell also drills). Chapter 4 treats assumptions, context, and a thinking map: what is being assumed, what else must be true for the argument to work, and how context changes interpretation. Ennis’s work on assumptions is the acknowledged source.
+
+Chapter 5: clarifying and interpreting
+Following Scriven, Fisher treats unclear terms as a source of bad argument. Stipulative clarification, ambiguity, and interpreting ideas in context are practised. This is the same problem Wallace and Wray flag with undefined concepts such as ‘education’ or, in your assignment, ‘inclusion’ and ‘computational thinking’.
+
+Chapters 6–7: acceptability of reasons and credibility of sources
+Not every reason is acceptable. Credibility of sources is a skill: expertise, vested interest, reputation, ability to observe, and so on. Chapter 7 develops skilful judgement of sources — the ancestor of your internet and ‘is this EEF report transferable?’ questions.
+
+Chapters 8–9: evaluating inferences
+Chapter 8 covers deductive validity and other grounds for inference (not everything is a syllogism; much everyday and professional reasoning is not deductively closed). Chapter 9 evaluates inferences that depend on assumptions and on other relevant arguments: an argument can fail because a hidden premise is false, or because a stronger counter-argument exists. ‘Beyond reasonable doubt’ appears in legal-style examples in the answers section.
+
+Chapter 10: causal explanations
+Much reasoning is causal. Sometimes we see the cause; usually we must work it out. Fisher’s pattern, using a pathologist and a Napoleon-arsenic example: given what you want to explain, what are possible explanations, and what evidence would support or rebut each? Then, given the evidence, which explanation is most likely, fits best with what else we know, and with what confidence? Question 10.1 on magnetite and bird navigation asks for alternative explanations. Correlations are not causes. This chapter matters for Computing: ‘dual coding caused higher scores’ is a causal claim that needs more than co-occurrence.
+
+Chapter 11: decision-making
+Following Swartz, Fisher treats options, consequences, values and risks. University choice, lottery odds, and policy examples (including drug-classification statistics in one passage) show that a decision is not an argument about what is true; it is a choice under values and uncertainty. Your lesson-sequence decisions are of this type: you choose a pedagogy under incomplete class data.
+
+Chapter 12: the internet
+New in the second edition, and written with advice from Steve Scalet. URLs give clues (.ac.uk, .gov, commercial). Snippets, time limits, Wikipedia’s own advice to check cited material, Google Scholar (including a Facione search exercise), and topics such as whale hunting, ice caps, the ‘war on terror’ and obesity are used as practice. The chapter exists because so much ‘information’ is unreliable. For SIT4200: an NCCE blog is not the same warrant as a peer-reviewed paper.
+
+Questions appendix, answers, glossary
+The second half of the book is largely exercises and answers (arguments about women and brains, climate models, TV violence, tobacco-industry science, alien abduction, and many others). The glossary defines terms such as argument, assumption, conclusion, credibility, validity. The bibliography includes Morton (1988) on making arguments explicit.
+
+Implications for SIT4200
+Fisher is recommended, not essential, because he trains the micro-skills inside each paragraph: Is this an argument or a description? What is assumed? Is the source credible? Is the inference causal or correlative? The launch’s weak extract (‘Bruner said… it helps students remember more’) fails Fisher’s tests: unclear causal link, no alternative explanation, no source credibility work. Use a thinking map on one Computing claim (for example ‘PRIMM reduces cognitive load’) before you write it.
+
+Citations found in the 2011 PDFs (selected)
+Costa et al. (2010); Dewey (1909); Ennis (via Norris and Ennis, 1989); Facione (2010); Fisher and Scriven (1997); Glaser (1941); Morton (1988); Passmore (2009); Paul, Fisher and Nosich (1993); Scriven (acknowledged throughout); Swartz (acknowledged for thinking maps and decision-making).
+
+
+Thinking maps as a practical method
+Fisher’s thinking maps are lists of questions, not diagrams to photocopy into a lesson. A map for evaluating an argument asks, in substance: What is the conclusion? What are the reasons? What is assumed? Are the reasons acceptable (true, credible, relevant)? Does the conclusion follow? What else should have been considered? A map for causal explanation asks for alternative hypotheses and discriminating evidence (the pathologist; the migrating birds). A map for decision-making asks for options, likely consequences, values, and risks — including the risk of a popular pedagogy that does not fit this class. Apply one map to one Computing claim before you write. Example: ‘I will use pair programming because Vygotsky says learning is social.’ Conclusion: pair programming should be used. Reasons: Vygotsky on social learning. Assumptions: that any pairing is the kind of social process Vygotsky described; that pairing does not raise cognitive load for novices; that this class can pair without excluding anxious pupils (Ruby Fletcher in 10X). Credibility: Vygotsky (1978) is seminal but not a Computing trial. Inference: does the conclusion follow, or is structured talk after a model (Alexander; Rosenshine) a better inference? Decision: pair only after a worked example, with roles, not as first instruction. That is Fisher’s map written as the PGCE chain.
+
+Credibility, the internet, and ‘forefront’
+Chapter 7’s credibility criteria (expertise, vested interest, reputation, opportunity to observe) should be used on every source in Section 1. An NCCE pedagogy guide has practitioner authority and possible advocacy interest. An EEF evidence review has a systematic warrant but may average across subjects. Rosenshine (2012) in American Educator is research-informed but not a Computing RCT. Papert’s constructionism has historical and philosophical weight and a weak warrant for mixed-attainment GCSE classes with short lesson sequences. Chapter 12 then asks you to read the URL, the date, and the genre. Wikipedia is a starting index, not a warrant (Fisher notes Wikipedia’s own advice to check original authors and publishers). Google Scholar’s advanced search (Fisher sets a Facione exercise) is how you find whether a claim is at the ‘forefront’ the QAA descriptor requires.
+
+From exercises to assignment paragraphs
+The Questions appendix (passages on climate models, TV violence, tobacco science, placebos, political speeches) trains the same moves on unfamiliar content so that you do not need Computing knowledge to practise the skill. Then you transfer. Cottrell’s essay-evaluation chapter and Williams’s stairway sit on top of Fisher’s micro-skills. If you only read Fisher you may write technically correct analyses that never become a lesson decision; the PGCE brief requires the last two steps (decision, impact). Fisher gets you to a defensible inference; Wallace and Wray and the assignment launch get you to a sequence.
+

@@ -1,0 +1,74 @@
+7. QAA — THE FRAMEWORKS FOR HIGHER EDUCATION QUALIFICATIONS OF UK DEGREE-AWARDING BODIES (FHEQ)
+
+Reading-list citation: Quality Assurance Agency for Higher Education (QAA) (2024) The Frameworks for Higher Education Qualifications of UK Degree-Awarding Bodies. Gloucester: QAA. [Essential]
+
+PDF actually read: QAA (2014) The Frameworks for Higher Education Qualifications of UK Degree-Awarding Bodies. October 2014. UK Quality Code for Higher Education, Part A: Setting and Maintaining Academic Standards. The reading list’s 2024 document is a later version of this national reference point. Threshold descriptors, especially Level 7, have been remarkably stable, but you should not cite 2024 for wording checked only in the 2014 PDF. Where your handbook quotes 2024, prefer that wording.
+
+What the document is
+The FHEQ (England, Wales and Northern Ireland) and the FQHEIS (Scotland, aligned to SCQF levels) are the UK’s national qualification frameworks for degree-awarding bodies. They sit in Part A of the (then) UK Quality Code. They state threshold academic standards: the minimum achievement that makes a student eligible for an award. They are generic, not subject-specific; subject benchmark statements and programme outcomes add subject detail. They align with the Bologna Process / QF-EHEA cycles (short cycle, first cycle = bachelor’s, second cycle = master’s, third cycle = doctorate) and relate to the EQF, CQFW, and credit arrangements. Degree-awarding bodies must position qualifications at the right level, align programme outcomes with the relevant descriptor, design and review programmes accordingly, assess those outcomes, and follow titling conventions.
+
+Levels (FHEQ numbering)
+Typical HE qualifications: Level 4 Certificate of Higher Education; Level 5 foundation degree (and DipHE in Scotland at the corresponding SCQF level); Level 6 bachelor’s with honours; Level 7 master’s (and postgraduate certificates and diplomas); Level 8 doctorate. Scotland uses SCQF 7–12 for the same ladder. Table 1 maps these to QF-EHEA cycles. Credit is awarded for verified achievement of designated outcomes at a specified level; Annex C gives illustrative credit volumes.
+
+Qualification descriptors: two parts
+Each descriptor has (1) outcomes the student must demonstrate — the national threshold — and (2) wider abilities a typical holder would have, useful in discussion with employers. Not every qualification type at a level meets the main descriptor in full. A postgraduate certificate uses the Level 7 master’s descriptor as a reference point and is expected to meet it in part, because the volume of learning is smaller.
+
+Level 4 (CertHE) — contrast
+Holders demonstrate knowledge of underlying concepts and principles and can evaluate and interpret them; they can present and interpret data to develop lines of argument and make sound judgements in accordance with basic theories. Typically they evaluate approaches to problems, communicate with structured arguments, and exercise some personal responsibility. This is not your target.
+
+Level 6 (bachelor’s with honours) — contrast
+Honours graduates (descriptor at 4.15 in the 2014 text) are expected, among other things, to have a systematic understanding of key aspects of their field, including acquisition of coherent and detailed knowledge, at least some of which is at, or informed by, the forefront of defined aspects of the discipline; to deploy accurately established techniques of analysis and enquiry; to devise and sustain arguments and solve problems; to describe and comment on current research; to appreciate uncertainty, ambiguity and limits of knowledge; to manage their own learning. Typically they can apply what they have learned to complex problems, communicate information, ideas, problems and solutions, and exercise initiative. This is strong undergraduate work. Level 7 is a step up from this, not a repeat of it. A PGCE rationale that ‘describes’ Vygotsky and Bruner and then applies them as recipes is often still Level 6.
+
+Level 7 (master’s) — the descriptor you are marked against
+Section 4.17 (2014, pp. 28–29) is shared by FHEQ Level 7 and SCQF Level 11. Master’s degrees are awarded to students who have demonstrated:
+
+• a systematic understanding of knowledge, and a critical awareness of current problems and/or new insights, much of which is at, or informed by, the forefront of their academic discipline, field of study or area of professional practice;
+
+• a comprehensive understanding of techniques applicable to their own research or advanced scholarship;
+
+• originality in the application of knowledge, together with a practical understanding of how established techniques of research and enquiry are used to create and interpret knowledge in the discipline;
+
+• conceptual understanding that enables the student to evaluate critically current research and advanced scholarship in the discipline, and to evaluate methodologies and develop critiques of them and, where appropriate, to propose new hypotheses.
+
+Typically, holders will be able to:
+
+• deal with complex issues both systematically and creatively, make sound judgements in the absence of complete data, and communicate their conclusions clearly to specialist and non-specialist audiences;
+
+• demonstrate self-direction and originality in tackling and solving problems, and act autonomously in planning and implementing tasks at a professional or equivalent level;
+
+• continue to advance their knowledge and understanding, and to develop new skills to a high level.
+
+Holders will have the qualities and transferable skills necessary for employment requiring the exercise of initiative and personal responsibility; decision-making in complex and unpredictable situations; and the independent learning ability required for continuing professional development.
+
+Paragraph 4.17.1 adds: much study is at or informed by the forefront of an academic or professional discipline; successful students show originality in applying knowledge and understand how the boundaries of knowledge are advanced through research; they deal with complex issues systematically and creatively; they have the qualities needed for employment requiring sound judgement, personal responsibility and initiative in complex and unpredictable professional environments.
+
+Master’s study is typically at least one full-time calendar year, usually taken by honours graduates (4.17.2). Master’s degrees are distinguished from other Level 7 awards (short CPD, PGCert, PGDip) by intensity, complexity and density, often including a synoptic or research activity (4.17.3). Integrated master’s and some medical, dental and veterinary first degrees meet Level 7 in their final outcomes while retaining historic titles (4.17.4–4.17.5). Scottish ancient universities’ undergraduate MA and Oxford/Cambridge MA are not SCQF 11 / academic Level 7 awards (4.17.6–4.17.7).
+
+PGCE and credit (Annex C, 2014)
+The illustrative table lists a Postgraduate Certificate in Education (PGCE) in England, Wales and Northern Ireland as 60 credits, of which 40 at FHEQ Level 7 (and a Postgraduate Diploma in Education in Scotland with a different pattern). A postgraduate certificate more generally is 60 credits (40 at Level 7). A taught master’s is typically 180 credits (150 at Level 7). So a PGCE is Level 7 work at smaller volume: the master’s descriptor is the reference point; you meet it in part, in the ways your module specifies. SIT4200’s grading grid is that specification: engagement with current and seminal Computing pedagogy; critical evaluation and original application; a sustained discussion of pedagogical decisions.
+
+Dublin descriptors (Annex B) — second cycle
+The QF-EHEA second-cycle (master’s) Dublin descriptor says graduates have demonstrated knowledge that extends first-cycle work and provides a basis for originality in developing or applying ideas, often in a research context; can apply knowledge and problem-solving in new or unfamiliar environments, including broader or multidisciplinary contexts; can integrate knowledge, handle complexity, and formulate judgements with incomplete information, including social and ethical responsibilities; can communicate conclusions and the underpinning rationale to specialist and non-specialist audiences; have largely self-directed learning skills. Step changes from first cycle include: originality; new or unfamiliar environments; judgements with incomplete data; communicating conclusions and rationale, not only information. That is the difference between ‘I described formative assessment’ and ‘I judged Black and Wiliam’s warrant, noted its age and subject origin, and decided what to do in Lesson 4 with incomplete class data’.
+
+Using descriptors (Chapter 5)
+Descriptors are generic. Subject skills live in subject benchmark statements and in programme outcomes. Where no benchmark fits, the generic descriptor is especially important. QAA also published Master’s Degree Characteristics (2010, in the 2014 further-reading list) as an additional reference point.
+
+Implications for SIT4200 — mapping the descriptor onto the chain
+Systematic understanding and critical awareness of current problems → Section 1 and 2 must identify what is contested now in Computing pedagogy (explicit instruction versus constructionism; what ‘powerful knowledge’ means for a practical subject), not only name Sweller and Papert.
+
+Forefront of professional practice → mix seminal texts (Vygotsky, 1978; Bruner, 1960; Black and Wiliam, 1998) with current literature (Willingham, 2021; Ashbee, 2021; EEF, 2020, 2021; Sentance and Waite on PRIMM; DfE, 2026, on the reading list).
+
+Originality in application → the originality is in the sequence decisions for this class (7X–11Y), not in inventing a new theory.
+
+Evaluate current research and methodologies → critique transferability (US professional development; lab cognitive science; primary inclusion studies) rather than taking texts at face value (the fail descriptor on your grid).
+
+Judgements in the absence of complete data → the class dataset is hypothetical and anonymised; you still make defensible adaptations and say what you would check with exit tickets.
+
+Communicate to specialist and non-specialist audiences → write so that a Computing mentor and a non-specialist examiner can both follow the argument (SIT4200: ‘school-based audience’).
+
+Autonomy and professional decision-making → the assignment launch’s sentence: make the decision visible and justify why it is defensible.
+
+Level 8 (doctorate) is beyond you: original contribution extending the frontier, substantial research process. Do not pretend to that. Level 7 is critical application and evaluation in professional context.
+
+Citations and reference points named in the 2014 PDF
+The document is a QAA framework, not a literature review. It refers to: the UK Quality Code; QF-EHEA and Dublin descriptors (EHEA, 2005 documentation as sourced in Annex B); EQF; CQFW; SCQF; SQA; Pearson / QCF; Bologna process; QAA (2010) Master’s Degree Characteristics; QAA (2011) Doctoral Degree Characteristics; QAA (2010) Foundation Degree Qualification Benchmark; subject benchmark statements; a QAA statement on the PGCE qualification (URL given in the 2014 text). No Dewey or Vygotsky here: this is the standard against which those authors must be used.
